@@ -1,20 +1,21 @@
 
 ## 🌐 Socials:
 <p align="center">
-  <a href="https://discord.gg/syedmukheeth29_07353" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" width="40" height="40" alt="Discord"/>
-  </a>
-  <a href="https://www.instagram.com/syed.mukheeth/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="40" height="40" alt="Instagram"/>
-  </a>
+
   <a href="https://www.linkedin.com/in/syedmukheeth/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn"/>
+  </a>
+    <a href="https://www.instagram.com/syed.mukheeth/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="40" height="40" alt="Instagram"/>
   </a>
   <a href="https://x.com/syed_mukheeth" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" width="40" height="40" alt="X (Twitter)"/>
   </a>
   <a href="mailto:syedmukheeth09@gmail.com" target="_blank">
     <img src="https://img.icons8.com/color/48/gmail-new.png" width="40" height="40" alt="Email"/>
+  </a>
+    <a href="https://discord.gg/syedmukheeth29_07353" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" width="40" height="40" alt="Discord"/>
   </a>
 </p>
 
