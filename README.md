@@ -16,16 +16,6 @@
     <img src="https://skillicons.dev/icons?i=twitter" width="40" height="40" alt="X (Twitter)"/>
   </a>
 
-  <!-- Email (Mail App) -->
-  <a href="mailto:syedmukheeth09@gmail.com?subject=Hello%20Syed&body=I%20would%20like%20to%20connect%20with%20you">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" width="40" height="40" alt="Email (Mail App)"/>
-  </a>
-
-  <!-- Email (Gmail Web Fallback) -->
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=syedmukheeth09@gmail.com&su=Hello%20Syed&body=I%20would%20like%20to%20connect%20with%20you" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/color/24/gmail.png" width="24" height="24" alt="Open in Gmail"/>
-  </a>
-
   <!-- Discord -->
   <a href="https://discord.gg/syedmukheeth29_07353" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=discord" width="40" height="40" alt="Discord"/>
