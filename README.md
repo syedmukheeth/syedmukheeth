@@ -47,8 +47,6 @@
 💡 *These stats update automatically every day based on my latest GitHub activity.*
 
 
-![GitHub Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=syedmukheeth&chart=radar&theme=dark)
-
 
 
 
