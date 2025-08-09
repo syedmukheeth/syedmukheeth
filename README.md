@@ -2,19 +2,19 @@
 ## 🌐 Socials:
 <p align="center">
   <a href="https://discord.gg/syedmukheeth29_07353" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white">
+    <img src="https://skillicons.dev/icons?i=discord" width="40" height="40" alt="Discord"/>
   </a>
   <a href="https://www.instagram.com/syed.mukheeth/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white">
+    <img src="https://skillicons.dev/icons?i=instagram" width="40" height="40" alt="Instagram"/>
   </a>
   <a href="https://www.linkedin.com/in/syedmukheeth/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn"/>
   </a>
   <a href="https://x.com/syed_mukheeth" target="_blank">
-    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white">
+    <img src="https://skillicons.dev/icons?i=twitter" width="40" height="40" alt="X (Twitter)"/>
   </a>
   <a href="mailto:syedmukheeth09@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="40" height="40" alt="Email"/>
   </a>
 </p>
 
