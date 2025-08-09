@@ -55,7 +55,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=syedmukheeth&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
-
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=syedmukheeth&icon=0&color=0" alt="Profile Visits" />
+  <img src="https://profile-counter.glitch.me/syedmukheeth/count.svg" alt="Profile Visits" />
 </p>
+
