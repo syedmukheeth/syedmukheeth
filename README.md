@@ -28,7 +28,8 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=syedmukheeth&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=syedmukheeth&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![GitHub Contribution Stats](github-stats.svg)
+![GitHub Contribution Stats](./github-stats.svg)
+
 
 
 ### ✍️ Random Dev Quote
