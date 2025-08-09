@@ -1,19 +1,33 @@
 
 ## 🌐 Socials:
 <p align="center">
-  <a href="https://www.linkedin.com/in/syedmukheeth/">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/syedmukheeth/" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn"/>
   </a>
-  <a href="https://www.instagram.com/syed.mukheeth/">
+
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/syed.mukheeth/" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=instagram" width="40" height="40" alt="Instagram"/>
   </a>
-  <a href="https://x.com/syed_mukheeth">
+
+  <!-- X (Twitter) -->
+  <a href="https://x.com/syed_mukheeth" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=twitter" width="40" height="40" alt="X (Twitter)"/>
   </a>
+
+  <!-- Email (Mail App) -->
   <a href="mailto:syedmukheeth09@gmail.com?subject=Hello%20Syed&body=I%20would%20like%20to%20connect%20with%20you">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" width="40" height="40" alt="Email"/>
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="40" height="40" alt="Email (Mail App)"/>
   </a>
-  <a href="https://discord.gg/syedmukheeth29_07353">
+
+  <!-- Email (Gmail Web Fallback) -->
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=syedmukheeth09@gmail.com&su=Hello%20Syed&body=I%20would%20like%20to%20connect%20with%20you" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/color/24/gmail.png" width="24" height="24" alt="Open in Gmail"/>
+  </a>
+
+  <!-- Discord -->
+  <a href="https://discord.gg/syedmukheeth29_07353" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=discord" width="40" height="40" alt="Discord"/>
   </a>
 </p>
