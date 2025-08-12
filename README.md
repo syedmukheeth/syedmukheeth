@@ -17,11 +17,8 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syedmukheeth&" alt="syedmukheeth" /></p>
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=syedmukheeth&show_icons=true&locale=en&layout=compact" alt="syedmukheeth" /></p>
-<hr/>
-![github-snake](https://raw.githubusercontent.com/syedmukheeth/syedmukheeth/output/github-contribution-grid-snake.svg)
+![GitHub Snake Light](https://raw.githubusercontent.com/syedmukheeth/syedmukheeth/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/syedmukheeth/syedmukheeth/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 <h2>⚡️ Where to find me</h2>
 <p>
