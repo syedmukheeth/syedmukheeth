@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate Snake Animation
 
 on:
   schedule:
@@ -6,19 +6,22 @@ on:
   workflow_dispatch:
 
 jobs:
-  generate:
+  build:
+    name: Build Snake
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # ✅ Important for pushing to the output branch
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+      - name: Checkout repo
+        uses: actions/checkout@v4
 
-      - name: Generate GitHub Contribution Snake
+      - name: Generate Snake SVG
         uses: Platane/snk@v3
         with:
           github_user_name: syedmukheeth
           outputs: dist/github-snake.svg dist/github-snake-dark.svg
 
-      - name: Push generated snake to output branch
+      - name: Push Snake SVG to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
