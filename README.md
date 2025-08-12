@@ -17,8 +17,11 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
 </p>
 
-![GitHub Snake Light](https://raw.githubusercontent.com/syedmukheeth/syedmukheeth/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/syedmukheeth/syedmukheeth/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+-------------
+![GitHub Snake Animation](https://raw.githubusercontent.com/syedmukheeth/syedmukheeth/main/dist/github-contribution-grid-snake.svg)
+
+
+-----------
 
 <h2>⚡️ Where to find me</h2>
 <p>
