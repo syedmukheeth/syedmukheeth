@@ -30,3 +30,6 @@
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=syedmukheeth&show_icons=true&locale=en" alt="syedmukheeth" /></p>
+<div align="center">
+  
+  <img src="https://komarev.com/ghpvc/?username=syedmukheeth&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
