@@ -1,10 +1,10 @@
 <h1 align="center">Welcome to my GitHub! 👋</h1>
-<h3 align="center">I'm Syed Abdul Mukheeth Peer</h3>
+<h3 align="center">I am Syed Abdul Mukheeth Peer</h3>
 <p align="center">Frontend Developer | Aspiring Full Stack Developer | DSA (C++)</p>
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00F78C&center=true&vCenter=true&width=600&lines=Passionate+Frontend+Developer;Aspiring+Full+Stack+Developer;Lifelong+Learner+%26+Problem+Solver;Open+to+Collaboration+%26+Innovation" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00F78C&center=true&vCenter=true&width=600&lines=Frontend+Developer;Aspiring+Full+Stack+Developer;" />
 </p>
 
 ---
