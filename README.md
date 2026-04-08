@@ -141,10 +141,19 @@ Not just a browser IDE — a distributed execution engine that brings desktop-gr
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=syedmukheeth&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F78C&icon_color=00F78C" height="170"/>
-<img src="https://streak-stats.demolab.com/?user=syedmukheeth&theme=tokyonight&hide_border=true&background=0D1117&ring=00F78C&fire=00F78C&currStreakLabel=00F78C" height="170"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=syedmukheeth&show_icons=true&theme=tokyonight&title_color=00F78C&icon_color=00F78C" height="170"/>
+  
+  <img src="https://streak-stats.demolab.com?user=syedmukheeth&theme=tokyonight&ring=00F78C&fire=00F78C" height="170"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedmukheeth&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F78C" height="150"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedmukheeth&layout=compact&theme=tokyonight&title_color=00F78C" height="150"/>
+</p>
+
+<br/>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=syedmukheeth&bg_color=0D1117&color=00F78C&line=00F78C&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
