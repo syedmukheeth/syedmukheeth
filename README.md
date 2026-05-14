@@ -20,10 +20,67 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syedmukheeth/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/syed.mukheeth/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.syedmukheeth.is-a.dev/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00F78C?style=for-the-badge&logo=vercel&logoColor=black)](https://www.syedmukheeth.is-a.dev/)
 [![Profile Views](https://komarev.com/ghpvc/?username=syedmukheeth&label=Profile+Views&color=00F78C&style=for-the-badge)](https://github.com/syedmukheeth)
 
 </div>
+
+---
+
+## `> portfolio.exe`
+
+<br/>
+
+<table align="center" border="0" cellspacing="0" cellpadding="16">
+<tr>
+<td align="center" valign="middle" width="260">
+
+<a href="https://www.syedmukheeth.is-a.dev/">
+  <img src="https://res.cloudinary.com/dcqbcjrsp/image/upload/f_auto,q_auto,w_500,h_560,c_fill,g_face/avatar_kyjo2q.png" width="220" alt="Syed Mukheeth — Portfolio"/>
+</a>
+
+<br/>
+
+![ONLINE](https://img.shields.io/badge/●_PROFILE__01-ONLINE-00F78C?style=flat-square&labelColor=0D1117)
+
+</td>
+<td align="left" valign="middle" width="460">
+
+<img src="https://img.shields.io/badge/SYSTEM__STATUS-ACTIVE_🟢-00F78C?style=flat-square&labelColor=0D1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/ARCH-HIGH__LOAD__OK-00F78C?style=flat-square&labelColor=0D1117"/>
+
+<br/><br/>
+
+**`syedmukheeth.is-a.dev`**
+
+<br/>
+
+*Engineering scalable systems, distributed*<br/>
+*mesh networks, and intelligent infrastructure.*<br/>
+*Focused on high-performance backend architecture.*
+
+<br/>
+
+<a href="https://www.syedmukheeth.is-a.dev/">
+  <img src="https://img.shields.io/badge/⚡_ENTER_PORTFOLIO-00F78C?style=for-the-badge&logoColor=black" alt="Visit Portfolio"/>
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/SAMCompiler-LIVE-00F78C?style=flat-square&labelColor=0D1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/SAMIndex-LIVE-00F78C?style=flat-square&labelColor=0D1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/PeerNet-LIVE-00F78C?style=flat-square&labelColor=0D1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/SJDC-LIVE-00F78C?style=flat-square&labelColor=0D1117"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ---
 
@@ -138,7 +195,7 @@ Led modernization of a legacy institutional academic platform into a scalable Re
 - 🏗️ **React 19 SPA** — Modular state management + scalable frontend pipeline architecture
 
 [![React 19](https://img.shields.io/badge/React_19-20232A?style=flat&logo=react&logoColor=61DAFB)](https://github.com/syedmukheeth/SJDC)
-[![Next.js](https://img.shields.io/badge/Vite-B73BFE?style=flat&logo=vite&logoColor=FFD62E)](https://github.com/syedmukheeth/SJDC)
+[![Vite](https://img.shields.io/badge/Vite-B73BFE?style=flat&logo=vite&logoColor=FFD62E)](https://github.com/syedmukheeth/SJDC)
 [![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)](https://github.com/syedmukheeth/SJDC)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)](https://github.com/syedmukheeth/SJDC)
 [![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)](https://github.com/syedmukheeth/SJDC)
