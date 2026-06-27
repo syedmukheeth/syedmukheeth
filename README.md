@@ -25,26 +25,32 @@
 
 </div>
 
+<br/>
+
 ---
+
+<br/>
 
 ## `> portfolio.exe`
 
 <br/>
 
-<table align="center" border="0" cellspacing="0" cellpadding="16">
+<div align="center">
+
+<table border="0" cellspacing="0" cellpadding="20">
 <tr>
-<td align="center" valign="middle" width="260">
+<td align="center" valign="middle" width="240">
 
 <a href="https://www.syedmukheeth.is-a.dev/">
-  <img src="https://res.cloudinary.com/dcqbcjrsp/image/upload/f_auto,q_auto,w_500,h_560,c_fill,g_face/avatar_kyjo2q.png" width="220" alt="Syed Mukheeth — Portfolio"/>
+  <img src="https://res.cloudinary.com/dcqbcjrsp/image/upload/f_auto,q_auto,w_500,h_560,c_fill,g_face/avatar_kyjo2q.png" width="200" alt="Syed Mukheeth — Portfolio"/>
 </a>
 
-<br/>
+<br/><br/>
 
 ![ONLINE](https://img.shields.io/badge/●_PROFILE__01-ONLINE-00F78C?style=flat-square&labelColor=0D1117)
 
 </td>
-<td align="left" valign="middle" width="460">
+<td align="left" valign="middle" width="480">
 
 <img src="https://img.shields.io/badge/SYSTEM__STATUS-ACTIVE_🟢-00F78C?style=flat-square&labelColor=0D1117"/>
 &nbsp;
@@ -52,13 +58,9 @@
 
 <br/><br/>
 
-**`syedmukheeth.is-a.dev`**
+### `syedmukheeth.is-a.dev`
 
-<br/>
-
-*Engineering scalable systems, distributed*<br/>
-*mesh networks, and intelligent infrastructure.*<br/>
-*Focused on high-performance backend architecture.*
+Engineering scalable systems, distributed mesh networks, and intelligent infrastructure. Focused on high-performance backend architecture.
 
 <br/>
 
@@ -68,56 +70,63 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/SAMCompiler-LIVE-00F78C?style=flat-square&labelColor=0D1117"/>
-&nbsp;
+<img src="https://img.shields.io/badge/SAM_Compiler-LIVE-00F78C?style=flat-square&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/SAMIndex-LIVE-00F78C?style=flat-square&labelColor=0D1117"/>
-&nbsp;
 <img src="https://img.shields.io/badge/PeerNet-LIVE-00F78C?style=flat-square&labelColor=0D1117"/>
-&nbsp;
 <img src="https://img.shields.io/badge/SJDC-LIVE-00F78C?style=flat-square&labelColor=0D1117"/>
 
 </td>
 </tr>
 </table>
 
+</div>
+
 <br/>
 
 ---
+
+<br/>
 
 ## `> whoami`
 
 ```typescript
 const mukheeth = {
-  role        : "Full Stack Engineer · System Design Developer",
-  location    : "India 🇮🇳",
-  focus       : ["Distributed Systems", "Microservices", "Real-Time Apps", "DSA"],
+  role              : "Full Stack Engineer · System Design Developer",
+  location          : "India 🇮🇳",
+  focus             : ["Distributed Systems", "Microservices", "Real-Time Apps", "DSA"],
   currentlyBuilding : ["PeerNet v3", "SAM Compiler v4"],
-  languages   : ["JavaScript", "C++", "Java", "C"],
-  philosophy  : "Architect for scale. Engineer for elegance. Ship for impact.",
+  languages         : ["JavaScript", "C++", "Java", "C"],
+  philosophy        : "Architect for scale. Engineer for elegance. Ship for impact.",
 };
 ```
 
+<br/>
+
 ---
 
+<br/>
+
 ## 🚀 Flagship Projects
+
+<br/>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 [PeerNet](https://github.com/syedmukheeth/PeerNet) — Social Ecosystem
+### 🌐 PeerNet : Social Ecosystem
+[![Repo](https://img.shields.io/badge/repo-syedmukheeth/PeerNet-0D1117?style=flat-square&logo=github)](https://github.com/syedmukheeth/PeerNet)
+
 **Event-Driven · Realtime · Production-Ready**
 
-A high-performance Instagram-inspired social platform built with Kafka-driven event pipelines, Redis-backed caching layers, and scalable Socket.IO communication infrastructure.
-
-**Architecture Highlights:**
-- ⚙️ Kafka event-driven architecture with async consumer workflows
-- ⚡ Redis caching + distributed event propagation
-- 🔒 JWT access + refresh token rotation
-- 📡 Bi-directional Socket.io WebSocket scaling
-- 🐳 Fully containerized with Docker & Nginx reverse proxy
+- ⚙️ **Kafka pipelines:** event-driven architecture with async consumer workflows
+- ⚡ **Redis layer:** caching plus distributed event propagation
+- 📡 **Socket.io scaling:** bi-directional WebSocket communication
+- 🐳 **Containerized:** Docker with an Nginx reverse proxy
 
 **Features:** Dscrolls · Live Chat · Stories · Push Notifications · Admin Suite · Dark/Light Theme
+
+<br/>
 
 [![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://github.com/syedmukheeth/PeerNet)
 [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)](https://github.com/syedmukheeth/PeerNet)
@@ -126,22 +135,24 @@ A high-performance Instagram-inspired social platform built with Kafka-driven ev
 [![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)](https://github.com/syedmukheeth/PeerNet)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://github.com/syedmukheeth/PeerNet)
 
+<br/>
+
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00C896?style=for-the-badge)](https://peer-net-indol.vercel.app)
 
 </td>
 <td width="50%" valign="top">
 
-### ⚡ [SAM Compiler](https://github.com/syedmukheeth/SAM-Compiler) — Distributed Code Engine
+### ⚡ SAM Compiler : Distributed Code Engine
+[![Repo](https://img.shields.io/badge/repo-syedmukheeth/SAM--Compiler-0D1117?style=flat-square&logo=github)](https://github.com/syedmukheeth/SAM-Compiler)
+
 **`SYNTAX ANALYSIS MACHINE` · CRDTs · gVisor · AI**
 
-Not just a browser IDE — a distributed execution engine that brings desktop-grade power to the cloud with zero compromises.
+- 🏎️ **CRDT collaboration:** Yjs conflict-free replicated data types, sub-10ms sync latency
+- 🛡️ **gVisor isolation:** untrusted code sandboxed in hardened containers (128MB RAM cap)
+- 🔄 **BullMQ + Redis:** async execution pipelines with concurrent worker orchestration
+- 🧠 **Gemini AI kernel:** integrated Google Gemini Pro, `Ctrl + /` to analyze and refactor
 
-**Architecture Highlights:**
-- 🏎️ **CRDT Collaboration** — Yjs conflict-free replicated data types; sub-10ms sync latency
-- 🛡️ **gVisor Isolation** — Untrusted code sandboxed in military-grade containers (128MB RAM cap)
-- 🔄 **BullMQ + Redis** — Async execution pipelines with concurrent worker orchestration
-- 🧠 **Gemini AI Kernel** — Integrated Google Gemini Pro (`Ctrl + /` to analyze & refactor)
-- 💾 **Global Persistence** — Full session, history & settings synced to MongoDB Atlas
+<br/>
 
 [![React](https://img.shields.io/badge/React_18-20232A?style=flat&logo=react&logoColor=61DAFB)](https://github.com/syedmukheeth/SAM-Compiler)
 [![Socket.io](https://img.shields.io/badge/Socket.io-111?style=flat&logo=socket.io&logoColor=white)](https://github.com/syedmukheeth/SAM-Compiler)
@@ -150,6 +161,8 @@ Not just a browser IDE — a distributed execution engine that brings desktop-gr
 [![Docker](https://img.shields.io/badge/Docker_gVisor-2496ED?style=flat&logo=docker&logoColor=white)](https://github.com/syedmukheeth/SAM-Compiler)
 [![Monaco](https://img.shields.io/badge/Monaco_Editor-2C2C32?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/syedmukheeth/SAM-Compiler)
 
+<br/>
+
 [![Launch](https://img.shields.io/badge/⚡_Launch_Workspace-00C896?style=for-the-badge)](https://sam-compiler-web.vercel.app/)
 
 </td>
@@ -157,17 +170,17 @@ Not just a browser IDE — a distributed execution engine that brings desktop-gr
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 [SAMIndex](https://github.com/syedmukheeth/SAMIndex) — AI Repository Intelligence Engine
+### 🧠 SAMIndex : AI Repository Intelligence Engine
+[![Repo](https://img.shields.io/badge/repo-syedmukheeth/SAMIndex-0D1117?style=flat-square&logo=github)](https://github.com/syedmukheeth/SAMIndex)
+
 **ZIP-Stream Ingestion · Semantic Analysis · Distributed Workers**
 
-An AI-powered repository intelligence engine that indexes, analyzes, and understands large-scale GitHub repositories through streaming ingestion pipelines and distributed async processing.
+- 🚀 **ZIP-based extraction:** 70%+ reduction in indexing overhead vs file-by-file API
+- 🔄 **BullMQ + Redis workers:** distributed async processing with modular AI provider abstraction
+- 🧩 **Semantic discovery:** dependency mapping, architecture audits, AI-assisted repo exploration
+- 🌍 **Scales to 1000+ files:** parallelized analysis with worker orchestration
 
-**Architecture Highlights:**
-- 🚀 **ZIP-based bulk extraction** — 70%+ reduction in indexing overhead vs file-by-file API
-- 🔄 **BullMQ + Redis workers** — Distributed async processing with modular AI provider abstraction
-- 🧩 **Semantic discovery** — Dependency mapping, architecture audits & AI-assisted repo exploration
-- 📊 **Progressive ingestion UX** — Realtime visualization of indexing + architecture generation flows
-- 🌍 **Supports 1000+ file repos** — Parallelized analysis with scalable worker orchestration
+<br/>
 
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)](https://github.com/syedmukheeth/SAMIndex)
 [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)](https://github.com/syedmukheeth/SAMIndex)
@@ -177,22 +190,24 @@ An AI-powered repository intelligence engine that indexes, analyzes, and underst
 [![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)](https://github.com/syedmukheeth/SAMIndex)
 [![Gemini](https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat&logo=google&logoColor=white)](https://github.com/syedmukheeth/SAMIndex)
 
+<br/>
+
 [![Live Demo](https://img.shields.io/badge/🧠_Launch_SAMIndex-00C896?style=for-the-badge)](https://sam-index.vercel.app/)
 
 </td>
 <td width="50%" valign="top">
 
-### 🏛️ [SJDC Platform](https://github.com/syedmukheeth/SJDC) — Institutional Modernization
+### 🏛️ SJDC Platform : Institutional Modernization
+[![Repo](https://img.shields.io/badge/repo-syedmukheeth/SJDC-0D1117?style=flat-square&logo=github)](https://github.com/syedmukheeth/SJDC)
+
 **React 19 · RBAC/RLS · Realtime CMS · AI-Powered**
 
-Led modernization of a legacy institutional academic platform into a scalable React 19 SPA ecosystem with realtime academic infrastructure, database-level security, and AI-powered knowledge retrieval.
+- 🔒 **RBAC + RLS:** row-level security with role-based access control at the database layer
+- 🧱 **JSONB CMS:** dynamic content delivery via Supabase Postgres realtime subscriptions
+- 🤖 **AI knowledge retrieval:** streamlined student support and academic info workflows
+- 🏗️ **React 19 SPA:** modular state management with a scalable frontend pipeline
 
-**Architecture Highlights:**
-- ⚡ **Vite HMR** — Rebuild times dropped from seconds to milliseconds
-- 🔒 **RBAC + RLS** — Row-level security with role-based access control at the database layer
-- 🧱 **JSONB CMS** — Dynamic content delivery via Supabase Postgres realtime subscriptions
-- 🤖 **AI Knowledge Retrieval** — Streamlined student support & centralized academic info workflows
-- 🏗️ **React 19 SPA** — Modular state management + scalable frontend pipeline architecture
+<br/>
 
 [![React 19](https://img.shields.io/badge/React_19-20232A?style=flat&logo=react&logoColor=61DAFB)](https://github.com/syedmukheeth/SJDC)
 [![Vite](https://img.shields.io/badge/Vite-B73BFE?style=flat&logo=vite&logoColor=FFD62E)](https://github.com/syedmukheeth/SJDC)
@@ -200,23 +215,33 @@ Led modernization of a legacy institutional academic platform into a scalable Re
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)](https://github.com/syedmukheeth/SJDC)
 [![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)](https://github.com/syedmukheeth/SJDC)
 
+<br/>
+
 [![GitHub](https://img.shields.io/badge/🏛️_View_Repository-00C896?style=for-the-badge)](https://github.com/syedmukheeth/SJDC)
 
 </td>
 </tr>
 </table>
 
+<br/>
+
 ---
+
+<br/>
 
 ## 🛠️ Tech Arsenal
 
-### Languages
+<br/>
+
+**Languages**
+<br/>
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-### Frontend
+**Frontend**
+<br/>
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
@@ -225,7 +250,8 @@ Led modernization of a legacy institutional academic platform into a scalable Re
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Backend & Infrastructure
+**Backend & Infrastructure**
+<br/>
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
@@ -234,14 +260,16 @@ Led modernization of a legacy institutional academic platform into a scalable Re
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![BullMQ](https://img.shields.io/badge/BullMQ-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### Databases & Caching
+**Databases & Caching**
+<br/>
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-### AI & DevOps
+**AI & DevOps**
+<br/>
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
@@ -249,7 +277,11 @@ Led modernization of a legacy institutional academic platform into a scalable Re
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
+<br/>
+
 ---
+
+<br/>
 
 ## 📊 GitHub Stats
 
@@ -257,7 +289,6 @@ Led modernization of a legacy institutional academic platform into a scalable Re
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=syedmukheeth&show_icons=true&theme=tokyonight&title_color=00F78C&icon_color=00F78C" height="170"/>
-  
   <img src="https://streak-stats.demolab.com?user=syedmukheeth&theme=tokyonight&ring=00F78C&fire=00F78C" height="170"/>
 </p>
 
@@ -271,13 +302,25 @@ Led modernization of a legacy institutional academic platform into a scalable Re
 
 </div>
 
+<br/>
+
 ---
+
+<br/>
 
 ## 🐍 Contribution Activity
 
+<div align="center">
+
 ![GitHub Snake Animation](https://raw.githubusercontent.com/syedmukheeth/syedmukheeth/main/dist/github-contribution-grid-snake.svg)
 
+</div>
+
+<br/>
+
 ---
+
+<br/>
 
 <div align="center">
 
