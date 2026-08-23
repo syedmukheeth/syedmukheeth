@@ -32,7 +32,7 @@ const mukheeth = {
   role              : "Full Stack Engineer · Scalable Backend Systems",
   alsoInto          : "Tech Marketing",
   location          : "India 🇮🇳",
-  focus             : ["Distributed Systems", "Microservices", "Real-Time Apps", "DSA"],
+  focus             : ["Distributed Systems", "Real-Time Apps"],
   currentlyBuilding : ["PeerNet v3", "SAM Compiler v4"],
   currentlyLearning : ["System Design at scale", "Tech Marketing & Growth"],
   languages         : ["JavaScript", "C++", "Java", "C"],
