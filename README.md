@@ -12,7 +12,7 @@
 
 <h1>Syed Abdul Mukheeth Peer</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=00F78C&center=true&vCenter=true&width=700&lines=Full+Stack+Engineer;Scalable+Backend+Systems;Microservices+%7C+Real-Time+Architecture;Tech+Marketing+%26+Growth;Always+leveling+up." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=00F78C&center=true&vCenter=true&width=700&lines=Full+Stack+Engineer;Scalable+Backend+Systems;Tech+Marketing+%26+Growth;Always+leveling+up." alt="Typing SVG" />
 
 <br/>
 
